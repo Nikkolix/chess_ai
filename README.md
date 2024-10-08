@@ -1,4 +1,4 @@
-# ChessAI_Project
+# Chess AI
 
 This project is a Chess AI developed as part of a university course. It provides an efficient and powerful way of representing the state of a chess board in computer memory.
 
@@ -30,15 +30,3 @@ If the project is not already configured, left-click on the root `CMakeLists.txt
 ### Visual Studio
 
 To open the project in Visual Studio, build the project in the terminal first, then open the project in `cmake-build-debug/ChessAI_Project.sln`.
-
-
-## Working on the project
-
-If you want to implement a new feature or fix a bug, please create a new branch based on the development. To do this, run the following command:
-
-
-```bash
-git chechkout -b {branch-name} development
-```
-Once you have finished implementing your changes, you can merge your branch with the development branch. However, please ensure that you have thoroughly tested your changes, written appropriate tests, and documented your code before merging your branch.
- 
